@@ -1,0 +1,4 @@
+Magali Helguera
+Parece que tengo dos repo, porque la vez anterior que lo abri me olvide de poner txt,
+porque en el anterior habia escrito que al cliquear sobre mi repo desde el archivo, a 
+mi me abre word, y se borran los nombres de las carpetas, de las ventanas, etc
